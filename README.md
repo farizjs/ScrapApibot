@@ -3,9 +3,10 @@
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
 ### ⚠ legal DISclaimER 🚸
-please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
+harap perlakukan ID APP dan HASH API Anda dengan hati-hati, dan pastikan tidak jatuh ke tangan yang salah.
 
-**Telegram said**: __It is forbidden to pass this value to third parties__.
+Telegram mengatakan : Dilarang memberikan nilai ini kepada pihak ketiga
+
 
 - can be found on [Telegram](https://telegram.dog/scrapmanbot)
 
